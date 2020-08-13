@@ -1,2 +1,11 @@
+Final project for Intro. to Computer Graphics. 
+
+Goal for the project was to determine how much of a computational power is necessary to achieve decent looking ray traced environments and comparing between them.
+
+
+
+
+
 Type make in the terminal and run the program with ./raytrace
 it will take a few second after its done it will display the time and give you the picture as out.ppm file
+
